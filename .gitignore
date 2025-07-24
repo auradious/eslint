@@ -1,3 +1,4 @@
+#this is a gitignore file for a project
 odc-data/
 odc-reports/
 .venv/
